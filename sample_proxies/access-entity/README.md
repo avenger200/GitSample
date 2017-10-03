@@ -1,6 +1,6 @@
 # Access Entity
 
-### Sample use case
+### Sample use case of Access Entity
 
 Retrieve profiles for Apigee Edge entities. Entities include such things as developers, developer apps, products, and more. 
 
